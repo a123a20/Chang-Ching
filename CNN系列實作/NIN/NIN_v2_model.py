@@ -50,5 +50,5 @@ class NIN_v2(nn.Module):
             print(layer.__class__.__name__, 'output shape: \t', test_img.shape)
 
 # 模擬圖片輸入解析度
-#nin = NIN(num_classes=5)
-#nin.test_output_shape()
+nin = NIN_v2(num_classes=5)
+nin.test_output_shape()
