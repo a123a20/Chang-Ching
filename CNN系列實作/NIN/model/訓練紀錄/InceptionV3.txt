@@ -1,0 +1,472 @@
+--------------------------------
+K_fold: 0
+Train Epoch: 1 [3125/4025 (99%)]	Loss: 1.347	Training Accuracy: 53.745%: 100%|███████| 126/126 [00:58<00:00,  2.16it/s]
+Train Epoch: 1	Average Loss: 1.325	Average Accuracy: 53.848%
+Val set -> Average loss: 2.2335, Accuracy: 510/1007 (50.645%)
+Train Epoch: 2 [3125/4025 (99%)]	Loss: 1.801	Training Accuracy: 53.919%: 100%|███████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 2	Average Loss: 1.233	Average Accuracy: 53.800%
+Val set -> Average loss: 1.5600, Accuracy: 507/1007 (50.348%)
+Train Epoch: 3 [3125/4025 (99%)]	Loss: 1.089	Training Accuracy: 54.588%: 100%|███████| 126/126 [00:57<00:00,  2.19it/s]
+Train Epoch: 3	Average Loss: 1.141	Average Accuracy: 54.157%
+Val set -> Average loss: 1.0615, Accuracy: 456/1007 (45.283%)
+Train Epoch: 4 [3125/4025 (99%)]	Loss: 0.703	Training Accuracy: 56.597%: 100%|███████| 126/126 [00:55<00:00,  2.26it/s]
+Train Epoch: 4	Average Loss: 1.056	Average Accuracy: 56.557%
+Val set -> Average loss: 1.4554, Accuracy: 546/1007 (54.220%)
+Train Epoch: 5 [3125/4025 (99%)]	Loss: 0.752	Training Accuracy: 57.416%: 100%|███████| 126/126 [00:58<00:00,  2.16it/s]
+Train Epoch: 5	Average Loss: 1.048	Average Accuracy: 57.728%
+Val set -> Average loss: 1.3607, Accuracy: 522/1007 (51.837%)
+Train Epoch: 6 [3125/4025 (99%)]	Loss: 0.787	Training Accuracy: 58.730%: 100%|███████| 126/126 [00:57<00:00,  2.18it/s]
+Train Epoch: 6	Average Loss: 0.992	Average Accuracy: 58.391%
+Val set -> Average loss: 0.9934, Accuracy: 563/1007 (55.909%)
+Train Epoch: 7 [3125/4025 (99%)]	Loss: 0.722	Training Accuracy: 60.243%: 100%|███████| 126/126 [00:58<00:00,  2.14it/s]
+Train Epoch: 7	Average Loss: 0.972	Average Accuracy: 60.154%
+Val set -> Average loss: 0.9863, Accuracy: 574/1007 (57.001%)
+Train Epoch: 8 [3125/4025 (99%)]	Loss: 0.916	Training Accuracy: 61.086%: 100%|███████| 126/126 [00:56<00:00,  2.22it/s]
+Train Epoch: 8	Average Loss: 0.946	Average Accuracy: 61.745%
+Val set -> Average loss: 1.0283, Accuracy: 599/1007 (59.484%)
+Train Epoch: 9 [3125/4025 (99%)]	Loss: 0.646	Training Accuracy: 61.682%: 100%|███████| 126/126 [00:56<00:00,  2.22it/s]
+Train Epoch: 9	Average Loss: 0.942	Average Accuracy: 62.238%
+Val set -> Average loss: 1.5769, Accuracy: 580/1007 (57.597%)
+Train Epoch: 10 [3125/4025 (99%)]	Loss: 0.820	Training Accuracy: 62.054%: 100%|██████| 126/126 [00:55<00:00,  2.27it/s]
+Train Epoch: 10	Average Loss: 0.928	Average Accuracy: 62.157%
+Val set -> Average loss: 0.9572, Accuracy: 589/1007 (58.491%)
+Train Epoch: 11 [3125/4025 (99%)]	Loss: 0.829	Training Accuracy: 62.847%: 100%|██████| 126/126 [00:56<00:00,  2.24it/s]
+Train Epoch: 11	Average Loss: 0.889	Average Accuracy: 62.969%
+Val set -> Average loss: 0.9416, Accuracy: 628/1007 (62.363%)
+Train Epoch: 12 [3125/4025 (99%)]	Loss: 0.928	Training Accuracy: 64.633%: 100%|██████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 12	Average Loss: 0.866	Average Accuracy: 63.956%
+Val set -> Average loss: 1.6114, Accuracy: 607/1007 (60.278%)
+Train Epoch: 13 [3125/4025 (99%)]	Loss: 0.867	Training Accuracy: 64.137%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 13	Average Loss: 0.886	Average Accuracy: 64.027%
+Val set -> Average loss: 1.0170, Accuracy: 616/1007 (61.172%)
+Train Epoch: 14 [3125/4025 (99%)]	Loss: 0.682	Training Accuracy: 66.344%: 100%|██████| 126/126 [00:58<00:00,  2.16it/s]
+Train Epoch: 14	Average Loss: 0.839	Average Accuracy: 65.997%
+Val set -> Average loss: 0.9588, Accuracy: 632/1007 (62.761%)
+Train Epoch: 15 [3125/4025 (99%)]	Loss: 0.754	Training Accuracy: 68.552%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 15	Average Loss: 0.775	Average Accuracy: 68.120%
+Val set -> Average loss: 0.9413, Accuracy: 674/1007 (66.931%)
+Train Epoch: 16 [3125/4025 (99%)]	Loss: 0.879	Training Accuracy: 70.809%: 100%|██████| 126/126 [00:58<00:00,  2.17it/s]
+Train Epoch: 16	Average Loss: 0.725	Average Accuracy: 70.910%
+Val set -> Average loss: 0.8476, Accuracy: 675/1007 (67.031%)
+Train Epoch: 17 [3125/4025 (99%)]	Loss: 1.059	Training Accuracy: 70.660%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 17	Average Loss: 0.726	Average Accuracy: 70.444%
+Val set -> Average loss: 1.1069, Accuracy: 668/1007 (66.336%)
+Train Epoch: 18 [3125/4025 (99%)]	Loss: 1.020	Training Accuracy: 71.577%: 100%|██████| 126/126 [00:58<00:00,  2.16it/s]
+Train Epoch: 18	Average Loss: 0.707	Average Accuracy: 72.300%
+Val set -> Average loss: 0.9264, Accuracy: 660/1007 (65.541%)
+Train Epoch: 19 [3125/4025 (99%)]	Loss: 0.750	Training Accuracy: 71.925%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 19	Average Loss: 0.690	Average Accuracy: 72.406%
+Val set -> Average loss: 0.8916, Accuracy: 685/1007 (68.024%)
+Train Epoch: 20 [3125/4025 (99%)]	Loss: 0.595	Training Accuracy: 73.041%: 100%|██████| 126/126 [00:58<00:00,  2.16it/s]
+Train Epoch: 20	Average Loss: 0.658	Average Accuracy: 72.493%
+Val set -> Average loss: 1.0101, Accuracy: 686/1007 (68.123%)
+Train Epoch: 21 [3125/4025 (99%)]	Loss: 0.557	Training Accuracy: 73.189%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 21	Average Loss: 0.654	Average Accuracy: 73.464%
+Val set -> Average loss: 0.9361, Accuracy: 674/1007 (66.931%)
+Train Epoch: 22 [3125/4025 (99%)]	Loss: 0.737	Training Accuracy: 73.586%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 22	Average Loss: 0.661	Average Accuracy: 73.246%
+Val set -> Average loss: 0.8508, Accuracy: 677/1007 (67.229%)
+Train Epoch: 23 [3125/4025 (99%)]	Loss: 0.438	Training Accuracy: 73.661%: 100%|██████| 126/126 [00:59<00:00,  2.13it/s]
+Train Epoch: 23	Average Loss: 0.656	Average Accuracy: 74.048%
+Val set -> Average loss: 0.9858, Accuracy: 674/1007 (66.931%)
+Train Epoch: 24 [3125/4025 (99%)]	Loss: 0.473	Training Accuracy: 73.859%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 24	Average Loss: 0.650	Average Accuracy: 72.795%
+Val set -> Average loss: 0.9058, Accuracy: 675/1007 (67.031%)
+Train Epoch: 25 [3125/4025 (99%)]	Loss: 0.551	Training Accuracy: 73.562%: 100%|██████| 126/126 [00:57<00:00,  2.19it/s]
+Train Epoch: 25	Average Loss: 0.647	Average Accuracy: 73.570%
+Val set -> Average loss: 0.9326, Accuracy: 682/1007 (67.726%)
+Train Epoch: 26 [3125/4025 (99%)]	Loss: 0.570	Training Accuracy: 73.586%: 100%|██████| 126/126 [00:56<00:00,  2.22it/s]
+Train Epoch: 26	Average Loss: 0.651	Average Accuracy: 73.754%
+Val set -> Average loss: 0.8716, Accuracy: 674/1007 (66.931%)
+Train Epoch: 27 [3125/4025 (99%)]	Loss: 1.170	Training Accuracy: 73.760%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 27	Average Loss: 0.645	Average Accuracy: 74.142%
+Val set -> Average loss: 0.8627, Accuracy: 686/1007 (68.123%)
+Train Epoch: 28 [3125/4025 (99%)]	Loss: 0.504	Training Accuracy: 74.033%: 100%|██████| 126/126 [00:56<00:00,  2.22it/s]
+Train Epoch: 28	Average Loss: 0.642	Average Accuracy: 73.781%
+Val set -> Average loss: 0.9241, Accuracy: 687/1007 (68.222%)
+Train Epoch: 29 [3125/4025 (99%)]	Loss: 0.849	Training Accuracy: 73.413%: 100%|██████| 126/126 [00:57<00:00,  2.18it/s]
+Train Epoch: 29	Average Loss: 0.646	Average Accuracy: 73.599%
+Val set -> Average loss: 1.0074, Accuracy: 670/1007 (66.534%)
+Train Epoch: 30 [3125/4025 (99%)]	Loss: 0.842	Training Accuracy: 73.710%: 100%|██████| 126/126 [00:59<00:00,  2.11it/s]
+Train Epoch: 30	Average Loss: 0.649	Average Accuracy: 74.857%
+Val set -> Average loss: 1.0607, Accuracy: 676/1007 (67.130%)
+--------------------------------
+K_fold: 1
+Train Epoch: 1 [3125/4025 (99%)]	Loss: 0.879	Training Accuracy: 51.116%: 100%|███████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 1	Average Loss: 1.425	Average Accuracy: 49.749%
+Val set -> Average loss: 6.3065, Accuracy: 518/1007 (51.440%)
+Train Epoch: 2 [3125/4025 (99%)]	Loss: 1.025	Training Accuracy: 53.472%: 100%|███████| 126/126 [00:55<00:00,  2.28it/s]
+Train Epoch: 2	Average Loss: 1.243	Average Accuracy: 54.860%
+Val set -> Average loss: 1.0732, Accuracy: 541/1007 (53.724%)
+Train Epoch: 3 [3125/4025 (99%)]	Loss: 0.940	Training Accuracy: 54.390%: 100%|███████| 126/126 [00:58<00:00,  2.15it/s]
+Train Epoch: 3	Average Loss: 1.095	Average Accuracy: 52.246%
+Val set -> Average loss: 0.9817, Accuracy: 553/1007 (54.916%)
+Train Epoch: 4 [3125/4025 (99%)]	Loss: 1.044	Training Accuracy: 56.300%: 100%|███████| 126/126 [00:56<00:00,  2.24it/s]
+Train Epoch: 4	Average Loss: 1.051	Average Accuracy: 55.473%
+Val set -> Average loss: 1.0092, Accuracy: 601/1007 (59.682%)
+Train Epoch: 5 [3125/4025 (99%)]	Loss: 1.062	Training Accuracy: 57.937%: 100%|███████| 126/126 [00:55<00:00,  2.26it/s]
+Train Epoch: 5	Average Loss: 1.019	Average Accuracy: 55.810%
+Val set -> Average loss: 1.0506, Accuracy: 596/1007 (59.186%)
+Train Epoch: 6 [3125/4025 (99%)]	Loss: 0.957	Training Accuracy: 59.573%: 100%|███████| 126/126 [00:55<00:00,  2.25it/s]
+Train Epoch: 6	Average Loss: 0.984	Average Accuracy: 58.973%
+Val set -> Average loss: 0.9854, Accuracy: 632/1007 (62.761%)
+Train Epoch: 7 [3125/4025 (99%)]	Loss: 0.825	Training Accuracy: 62.054%: 100%|███████| 126/126 [00:55<00:00,  2.25it/s]
+Train Epoch: 7	Average Loss: 0.909	Average Accuracy: 60.582%
+Val set -> Average loss: 0.8736, Accuracy: 655/1007 (65.045%)
+Train Epoch: 8 [3125/4025 (99%)]	Loss: 1.185	Training Accuracy: 62.996%: 100%|███████| 126/126 [00:55<00:00,  2.25it/s]
+Train Epoch: 8	Average Loss: 0.886	Average Accuracy: 62.712%
+Val set -> Average loss: 0.8325, Accuracy: 658/1007 (65.343%)
+Train Epoch: 9 [3125/4025 (99%)]	Loss: 0.669	Training Accuracy: 63.467%: 100%|███████| 126/126 [00:56<00:00,  2.24it/s]
+Train Epoch: 9	Average Loss: 0.877	Average Accuracy: 63.708%
+Val set -> Average loss: 0.9401, Accuracy: 640/1007 (63.555%)
+Train Epoch: 10 [3125/4025 (99%)]	Loss: 0.764	Training Accuracy: 63.095%: 100%|██████| 126/126 [00:56<00:00,  2.24it/s]
+Train Epoch: 10	Average Loss: 0.884	Average Accuracy: 62.922%
+Val set -> Average loss: 0.8598, Accuracy: 659/1007 (65.442%)
+Train Epoch: 11 [3125/4025 (99%)]	Loss: 0.840	Training Accuracy: 64.286%: 100%|██████| 126/126 [00:55<00:00,  2.26it/s]
+Train Epoch: 11	Average Loss: 0.865	Average Accuracy: 65.193%
+Val set -> Average loss: 0.8274, Accuracy: 656/1007 (65.144%)
+Train Epoch: 12 [3125/4025 (99%)]	Loss: 0.945	Training Accuracy: 64.559%: 100%|██████| 126/126 [00:55<00:00,  2.26it/s]
+Train Epoch: 12	Average Loss: 0.853	Average Accuracy: 65.938%
+Val set -> Average loss: 0.8446, Accuracy: 657/1007 (65.243%)
+Train Epoch: 13 [3125/4025 (99%)]	Loss: 0.738	Training Accuracy: 65.699%: 100%|██████| 126/126 [00:56<00:00,  2.24it/s]
+Train Epoch: 13	Average Loss: 0.813	Average Accuracy: 65.547%
+Val set -> Average loss: 0.8585, Accuracy: 641/1007 (63.654%)
+Train Epoch: 14 [3125/4025 (99%)]	Loss: 0.874	Training Accuracy: 65.451%: 100%|██████| 126/126 [00:55<00:00,  2.25it/s]
+Train Epoch: 14	Average Loss: 0.817	Average Accuracy: 65.254%
+Val set -> Average loss: 0.8353, Accuracy: 660/1007 (65.541%)
+Train Epoch: 15 [3125/4025 (99%)]	Loss: 0.879	Training Accuracy: 67.336%: 100%|██████| 126/126 [00:56<00:00,  2.24it/s]
+Train Epoch: 15	Average Loss: 0.805	Average Accuracy: 67.873%
+Val set -> Average loss: 0.7958, Accuracy: 657/1007 (65.243%)
+Train Epoch: 16 [3125/4025 (99%)]	Loss: 1.231	Training Accuracy: 67.758%: 100%|██████| 126/126 [00:55<00:00,  2.26it/s]
+Train Epoch: 16	Average Loss: 0.785	Average Accuracy: 67.727%
+Val set -> Average loss: 0.7882, Accuracy: 673/1007 (66.832%)
+Train Epoch: 17 [3125/4025 (99%)]	Loss: 0.794	Training Accuracy: 68.229%: 100%|██████| 126/126 [00:55<00:00,  2.26it/s]
+Train Epoch: 17	Average Loss: 0.768	Average Accuracy: 68.592%
+Val set -> Average loss: 0.8101, Accuracy: 673/1007 (66.832%)
+Train Epoch: 18 [3125/4025 (99%)]	Loss: 0.893	Training Accuracy: 68.552%: 100%|██████| 126/126 [00:56<00:00,  2.25it/s]
+Train Epoch: 18	Average Loss: 0.765	Average Accuracy: 67.927%
+Val set -> Average loss: 0.7939, Accuracy: 681/1007 (67.627%)
+Train Epoch: 19 [3125/4025 (99%)]	Loss: 0.753	Training Accuracy: 68.229%: 100%|██████| 126/126 [00:59<00:00,  2.13it/s]
+Train Epoch: 19	Average Loss: 0.770	Average Accuracy: 68.775%
+Val set -> Average loss: 0.7949, Accuracy: 674/1007 (66.931%)
+Train Epoch: 20 [3125/4025 (99%)]	Loss: 0.658	Training Accuracy: 69.221%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 20	Average Loss: 0.749	Average Accuracy: 69.287%
+Val set -> Average loss: 0.7952, Accuracy: 674/1007 (66.931%)
+Train Epoch: 21 [3125/4025 (99%)]	Loss: 0.864	Training Accuracy: 68.452%: 100%|██████| 126/126 [00:56<00:00,  2.25it/s]
+Train Epoch: 21	Average Loss: 0.754	Average Accuracy: 69.743%
+Val set -> Average loss: 0.7993, Accuracy: 689/1007 (68.421%)
+Train Epoch: 22 [3125/4025 (99%)]	Loss: 1.090	Training Accuracy: 69.593%: 100%|██████| 126/126 [00:57<00:00,  2.19it/s]
+Train Epoch: 22	Average Loss: 0.753	Average Accuracy: 68.880%
+Val set -> Average loss: 0.8273, Accuracy: 673/1007 (66.832%)
+Train Epoch: 23 [3125/4025 (99%)]	Loss: 0.785	Training Accuracy: 69.097%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 23	Average Loss: 0.760	Average Accuracy: 69.443%
+Val set -> Average loss: 0.8052, Accuracy: 683/1007 (67.825%)
+Train Epoch: 24 [3125/4025 (99%)]	Loss: 0.612	Training Accuracy: 69.320%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 24	Average Loss: 0.749	Average Accuracy: 69.059%
+Val set -> Average loss: 0.8258, Accuracy: 677/1007 (67.229%)
+Train Epoch: 25 [3125/4025 (99%)]	Loss: 1.087	Training Accuracy: 68.676%: 100%|██████| 126/126 [00:55<00:00,  2.25it/s]
+Train Epoch: 25	Average Loss: 0.747	Average Accuracy: 69.403%
+Val set -> Average loss: 0.7918, Accuracy: 681/1007 (67.627%)
+Train Epoch: 26 [3125/4025 (99%)]	Loss: 0.767	Training Accuracy: 68.973%: 100%|██████| 126/126 [00:57<00:00,  2.19it/s]
+Train Epoch: 26	Average Loss: 0.744	Average Accuracy: 69.938%
+Val set -> Average loss: 0.8156, Accuracy: 681/1007 (67.627%)
+Train Epoch: 27 [3125/4025 (99%)]	Loss: 0.676	Training Accuracy: 69.742%: 100%|██████| 126/126 [00:55<00:00,  2.28it/s]
+Train Epoch: 27	Average Loss: 0.740	Average Accuracy: 69.658%
+Val set -> Average loss: 0.8237, Accuracy: 675/1007 (67.031%)
+Train Epoch: 28 [3125/4025 (99%)]	Loss: 0.874	Training Accuracy: 68.601%: 100%|██████| 126/126 [00:57<00:00,  2.18it/s]
+Train Epoch: 28	Average Loss: 0.760	Average Accuracy: 67.906%
+Val set -> Average loss: 0.8149, Accuracy: 680/1007 (67.527%)
+Train Epoch: 29 [3125/4025 (99%)]	Loss: 0.666	Training Accuracy: 69.395%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 29	Average Loss: 0.756	Average Accuracy: 70.044%
+Val set -> Average loss: 0.8078, Accuracy: 678/1007 (67.329%)
+Train Epoch: 30 [3125/4025 (99%)]	Loss: 0.828	Training Accuracy: 69.221%: 100%|██████| 126/126 [00:54<00:00,  2.30it/s]
+Train Epoch: 30	Average Loss: 0.757	Average Accuracy: 69.541%
+Val set -> Average loss: 0.8268, Accuracy: 668/1007 (66.336%)
+--------------------------------
+K_fold: 2
+Train Epoch: 1 [3250/4026 (99%)]	Loss: 1.073	Training Accuracy: 50.670%: 100%|███████| 126/126 [00:56<00:00,  2.22it/s]
+Train Epoch: 1	Average Loss: 1.461	Average Accuracy: 49.597%
+Val set -> Average loss: 1.1208, Accuracy: 417/1006 (41.451%)
+Train Epoch: 2 [3250/4026 (99%)]	Loss: 1.521	Training Accuracy: 53.100%: 100%|███████| 126/126 [00:59<00:00,  2.11it/s]
+Train Epoch: 2	Average Loss: 1.299	Average Accuracy: 53.820%
+Val set -> Average loss: 1.9871, Accuracy: 553/1006 (54.970%)
+Train Epoch: 3 [3250/4026 (99%)]	Loss: 1.008	Training Accuracy: 53.299%: 100%|███████| 126/126 [00:56<00:00,  2.24it/s]
+Train Epoch: 3	Average Loss: 1.122	Average Accuracy: 52.394%
+Val set -> Average loss: 0.9522, Accuracy: 563/1006 (55.964%)
+Train Epoch: 4 [3250/4026 (99%)]	Loss: 0.908	Training Accuracy: 54.464%: 100%|███████| 126/126 [00:56<00:00,  2.25it/s]
+Train Epoch: 4	Average Loss: 1.100	Average Accuracy: 54.488%
+Val set -> Average loss: 1.2820, Accuracy: 581/1006 (57.753%)
+Train Epoch: 5 [3250/4026 (99%)]	Loss: 1.389	Training Accuracy: 57.019%: 100%|███████| 126/126 [00:56<00:00,  2.25it/s]
+Train Epoch: 5	Average Loss: 1.032	Average Accuracy: 56.800%
+Val set -> Average loss: 0.9311, Accuracy: 605/1006 (60.139%)
+Train Epoch: 6 [3250/4026 (99%)]	Loss: 1.065	Training Accuracy: 57.168%: 100%|███████| 126/126 [00:56<00:00,  2.25it/s]
+Train Epoch: 6	Average Loss: 1.030	Average Accuracy: 57.044%
+Val set -> Average loss: 0.9656, Accuracy: 608/1006 (60.437%)
+Train Epoch: 7 [3250/4026 (99%)]	Loss: 1.071	Training Accuracy: 59.549%: 100%|███████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 7	Average Loss: 0.989	Average Accuracy: 59.826%
+Val set -> Average loss: 0.9127, Accuracy: 623/1006 (61.928%)
+Train Epoch: 8 [3250/4026 (99%)]	Loss: 0.775	Training Accuracy: 61.409%: 100%|███████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 8	Average Loss: 0.943	Average Accuracy: 60.550%
+Val set -> Average loss: 1.0483, Accuracy: 644/1006 (64.016%)
+Train Epoch: 9 [3250/4026 (99%)]	Loss: 0.706	Training Accuracy: 61.136%: 100%|███████| 126/126 [00:58<00:00,  2.17it/s]
+Train Epoch: 9	Average Loss: 0.925	Average Accuracy: 61.340%
+Val set -> Average loss: 1.0319, Accuracy: 590/1006 (58.648%)
+Train Epoch: 10 [3250/4026 (99%)]	Loss: 0.902	Training Accuracy: 58.532%: 100%|██████| 126/126 [00:58<00:00,  2.16it/s]
+Train Epoch: 10	Average Loss: 0.989	Average Accuracy: 60.146%
+Val set -> Average loss: 1.2069, Accuracy: 575/1006 (57.157%)
+Train Epoch: 11 [3250/4026 (99%)]	Loss: 0.669	Training Accuracy: 61.210%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 11	Average Loss: 0.916	Average Accuracy: 60.090%
+Val set -> Average loss: 0.8801, Accuracy: 626/1006 (62.227%)
+Train Epoch: 12 [3250/4026 (99%)]	Loss: 0.885	Training Accuracy: 61.830%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 12	Average Loss: 0.908	Average Accuracy: 62.352%
+Val set -> Average loss: 0.9536, Accuracy: 632/1006 (62.823%)
+Train Epoch: 13 [3250/4026 (99%)]	Loss: 1.116	Training Accuracy: 62.004%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 13	Average Loss: 0.885	Average Accuracy: 61.252%
+Val set -> Average loss: 0.8676, Accuracy: 647/1006 (64.314%)
+Train Epoch: 14 [3250/4026 (99%)]	Loss: 0.972	Training Accuracy: 63.368%: 100%|██████| 126/126 [00:56<00:00,  2.24it/s]
+Train Epoch: 14	Average Loss: 0.874	Average Accuracy: 63.215%
+Val set -> Average loss: 0.8766, Accuracy: 644/1006 (64.016%)
+Train Epoch: 15 [3250/4026 (99%)]	Loss: 1.094	Training Accuracy: 64.534%: 100%|██████| 126/126 [00:56<00:00,  2.25it/s]
+Train Epoch: 15	Average Loss: 0.857	Average Accuracy: 65.383%
+Val set -> Average loss: 0.8568, Accuracy: 653/1006 (64.911%)
+Train Epoch: 16 [3250/4026 (99%)]	Loss: 0.888	Training Accuracy: 64.236%: 100%|██████| 126/126 [01:03<00:00,  1.99it/s]
+Train Epoch: 16	Average Loss: 0.855	Average Accuracy: 65.567%
+Val set -> Average loss: 0.9304, Accuracy: 663/1006 (65.905%)
+Train Epoch: 17 [3250/4026 (99%)]	Loss: 0.552	Training Accuracy: 65.228%: 100%|██████| 126/126 [01:01<00:00,  2.04it/s]
+Train Epoch: 17	Average Loss: 0.825	Average Accuracy: 64.615%
+Val set -> Average loss: 0.8303, Accuracy: 647/1006 (64.314%)
+Train Epoch: 18 [3250/4026 (99%)]	Loss: 0.775	Training Accuracy: 66.121%: 100%|██████| 126/126 [01:02<00:00,  2.02it/s]
+Train Epoch: 18	Average Loss: 0.825	Average Accuracy: 66.890%
+Val set -> Average loss: 0.8843, Accuracy: 671/1006 (66.700%)
+Train Epoch: 19 [3250/4026 (99%)]	Loss: 0.958	Training Accuracy: 66.791%: 100%|██████| 126/126 [01:02<00:00,  2.02it/s]
+Train Epoch: 19	Average Loss: 0.795	Average Accuracy: 67.511%
+Val set -> Average loss: 0.8291, Accuracy: 661/1006 (65.706%)
+Train Epoch: 20 [3250/4026 (99%)]	Loss: 0.724	Training Accuracy: 66.493%: 100%|██████| 126/126 [01:01<00:00,  2.04it/s]
+Train Epoch: 20	Average Loss: 0.802	Average Accuracy: 66.842%
+Val set -> Average loss: 0.8307, Accuracy: 654/1006 (65.010%)
+Train Epoch: 21 [3250/4026 (99%)]	Loss: 0.504	Training Accuracy: 68.378%: 100%|██████| 126/126 [01:00<00:00,  2.08it/s]
+Train Epoch: 21	Average Loss: 0.767	Average Accuracy: 68.582%
+Val set -> Average loss: 0.8208, Accuracy: 667/1006 (66.302%)
+Train Epoch: 22 [3250/4026 (99%)]	Loss: 0.825	Training Accuracy: 69.320%: 100%|██████| 126/126 [00:57<00:00,  2.19it/s]
+Train Epoch: 22	Average Loss: 0.764	Average Accuracy: 69.120%
+Val set -> Average loss: 0.8621, Accuracy: 672/1006 (66.799%)
+Train Epoch: 23 [3250/4026 (99%)]	Loss: 0.612	Training Accuracy: 68.874%: 100%|██████| 126/126 [00:57<00:00,  2.19it/s]
+Train Epoch: 23	Average Loss: 0.752	Average Accuracy: 68.834%
+Val set -> Average loss: 0.8103, Accuracy: 686/1006 (68.191%)
+Train Epoch: 24 [3250/4026 (99%)]	Loss: 0.696	Training Accuracy: 70.139%: 100%|██████| 126/126 [00:55<00:00,  2.27it/s]
+Train Epoch: 24	Average Loss: 0.743	Average Accuracy: 71.446%
+Val set -> Average loss: 0.8446, Accuracy: 665/1006 (66.103%)
+Train Epoch: 25 [3250/4026 (99%)]	Loss: 0.788	Training Accuracy: 70.536%: 100%|██████| 126/126 [00:56<00:00,  2.22it/s]
+Train Epoch: 25	Average Loss: 0.738	Average Accuracy: 71.889%
+Val set -> Average loss: 0.8095, Accuracy: 667/1006 (66.302%)
+Train Epoch: 26 [3250/4026 (99%)]	Loss: 0.556	Training Accuracy: 71.577%: 100%|██████| 126/126 [00:56<00:00,  2.21it/s]
+Train Epoch: 26	Average Loss: 0.708	Average Accuracy: 71.614%
+Val set -> Average loss: 0.8153, Accuracy: 676/1006 (67.197%)
+Train Epoch: 27 [3250/4026 (99%)]	Loss: 0.551	Training Accuracy: 72.545%: 100%|██████| 126/126 [00:59<00:00,  2.12it/s]
+Train Epoch: 27	Average Loss: 0.695	Average Accuracy: 71.922%
+Val set -> Average loss: 0.7834, Accuracy: 670/1006 (66.600%)
+Train Epoch: 28 [3250/4026 (99%)]	Loss: 0.616	Training Accuracy: 72.024%: 100%|██████| 126/126 [00:58<00:00,  2.17it/s]
+Train Epoch: 28	Average Loss: 0.692	Average Accuracy: 72.498%
+Val set -> Average loss: 0.8382, Accuracy: 671/1006 (66.700%)
+Train Epoch: 29 [3250/4026 (99%)]	Loss: 0.607	Training Accuracy: 74.578%: 100%|██████| 126/126 [00:58<00:00,  2.16it/s]
+Train Epoch: 29	Average Loss: 0.656	Average Accuracy: 73.891%
+Val set -> Average loss: 0.7975, Accuracy: 669/1006 (66.501%)
+Train Epoch: 30 [3250/4026 (99%)]	Loss: 0.828	Training Accuracy: 74.380%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 30	Average Loss: 0.658	Average Accuracy: 76.143%
+Val set -> Average loss: 0.8558, Accuracy: 683/1006 (67.893%)
+--------------------------------
+K_fold: 3
+Train Epoch: 1 [3250/4026 (99%)]	Loss: 2.153	Training Accuracy: 53.100%: 100%|███████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 1	Average Loss: 1.398	Average Accuracy: 52.005%
+Val set -> Average loss: 1.7377, Accuracy: 536/1006 (53.280%)
+Train Epoch: 2 [3250/4026 (99%)]	Loss: 0.984	Training Accuracy: 55.159%: 100%|███████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 2	Average Loss: 1.182	Average Accuracy: 54.543%
+Val set -> Average loss: 1.2568, Accuracy: 577/1006 (57.356%)
+Train Epoch: 3 [3250/4026 (99%)]	Loss: 1.002	Training Accuracy: 58.110%: 100%|███████| 126/126 [00:55<00:00,  2.27it/s]
+Train Epoch: 3	Average Loss: 1.054	Average Accuracy: 57.894%
+Val set -> Average loss: 1.0761, Accuracy: 590/1006 (58.648%)
+Train Epoch: 4 [3250/4026 (99%)]	Loss: 0.669	Training Accuracy: 59.276%: 100%|███████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 4	Average Loss: 1.036	Average Accuracy: 59.526%
+Val set -> Average loss: 0.9261, Accuracy: 602/1006 (59.841%)
+Train Epoch: 5 [3250/4026 (99%)]	Loss: 1.152	Training Accuracy: 60.367%: 100%|███████| 126/126 [00:54<00:00,  2.29it/s]
+Train Epoch: 5	Average Loss: 1.005	Average Accuracy: 60.128%
+Val set -> Average loss: 1.3721, Accuracy: 598/1006 (59.443%)
+Train Epoch: 6 [3250/4026 (99%)]	Loss: 1.239	Training Accuracy: 61.508%: 100%|███████| 126/126 [00:55<00:00,  2.27it/s]
+Train Epoch: 6	Average Loss: 0.951	Average Accuracy: 61.451%
+Val set -> Average loss: 1.0872, Accuracy: 608/1006 (60.437%)
+Train Epoch: 7 [3250/4026 (99%)]	Loss: 0.810	Training Accuracy: 62.252%: 100%|███████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 7	Average Loss: 0.964	Average Accuracy: 62.967%
+Val set -> Average loss: 1.0840, Accuracy: 617/1006 (61.332%)
+Train Epoch: 8 [3250/4026 (99%)]	Loss: 0.847	Training Accuracy: 63.566%: 100%|███████| 126/126 [00:57<00:00,  2.18it/s]
+Train Epoch: 8	Average Loss: 0.897	Average Accuracy: 63.074%
+Val set -> Average loss: 1.1585, Accuracy: 634/1006 (63.022%)
+Train Epoch: 9 [3250/4026 (99%)]	Loss: 0.987	Training Accuracy: 64.931%: 100%|███████| 126/126 [00:57<00:00,  2.19it/s]
+Train Epoch: 9	Average Loss: 0.866	Average Accuracy: 64.774%
+Val set -> Average loss: 0.8711, Accuracy: 654/1006 (65.010%)
+Train Epoch: 10 [3250/4026 (99%)]	Loss: 0.929	Training Accuracy: 65.575%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 10	Average Loss: 0.844	Average Accuracy: 64.454%
+Val set -> Average loss: 0.8116, Accuracy: 666/1006 (66.203%)
+Train Epoch: 11 [3250/4026 (99%)]	Loss: 0.961	Training Accuracy: 66.022%: 100%|██████| 126/126 [00:57<00:00,  2.18it/s]
+Train Epoch: 11	Average Loss: 0.825	Average Accuracy: 67.556%
+Val set -> Average loss: 0.8390, Accuracy: 663/1006 (65.905%)
+Train Epoch: 12 [3250/4026 (99%)]	Loss: 0.702	Training Accuracy: 67.039%: 100%|██████| 126/126 [00:58<00:00,  2.16it/s]
+Train Epoch: 12	Average Loss: 0.815	Average Accuracy: 66.971%
+Val set -> Average loss: 0.9131, Accuracy: 655/1006 (65.109%)
+Train Epoch: 13 [3250/4026 (99%)]	Loss: 0.760	Training Accuracy: 67.163%: 100%|██████| 126/126 [01:04<00:00,  1.95it/s]
+Train Epoch: 13	Average Loss: 0.795	Average Accuracy: 65.927%
+Val set -> Average loss: 0.9141, Accuracy: 670/1006 (66.600%)
+Train Epoch: 14 [3250/4026 (99%)]	Loss: 0.708	Training Accuracy: 69.246%: 100%|██████| 126/126 [00:57<00:00,  2.18it/s]
+Train Epoch: 14	Average Loss: 0.764	Average Accuracy: 69.451%
+Val set -> Average loss: 0.8319, Accuracy: 675/1006 (67.097%)
+Train Epoch: 15 [3250/4026 (99%)]	Loss: 0.779	Training Accuracy: 69.767%: 100%|██████| 126/126 [00:56<00:00,  2.21it/s]
+Train Epoch: 15	Average Loss: 0.742	Average Accuracy: 71.143%
+Val set -> Average loss: 0.7827, Accuracy: 679/1006 (67.495%)
+Train Epoch: 16 [3250/4026 (99%)]	Loss: 0.908	Training Accuracy: 69.395%: 100%|██████| 126/126 [00:59<00:00,  2.13it/s]
+Train Epoch: 16	Average Loss: 0.764	Average Accuracy: 68.751%
+Val set -> Average loss: 0.7756, Accuracy: 672/1006 (66.799%)
+Train Epoch: 17 [3250/4026 (99%)]	Loss: 0.734	Training Accuracy: 69.271%: 100%|██████| 126/126 [00:56<00:00,  2.24it/s]
+Train Epoch: 17	Average Loss: 0.767	Average Accuracy: 67.596%
+Val set -> Average loss: 0.7628, Accuracy: 682/1006 (67.793%)
+Train Epoch: 18 [3250/4026 (99%)]	Loss: 0.905	Training Accuracy: 69.568%: 100%|██████| 126/126 [00:55<00:00,  2.28it/s]
+Train Epoch: 18	Average Loss: 0.760	Average Accuracy: 70.839%
+Val set -> Average loss: 0.8057, Accuracy: 676/1006 (67.197%)
+Train Epoch: 19 [3250/4026 (99%)]	Loss: 0.679	Training Accuracy: 69.469%: 100%|██████| 126/126 [00:56<00:00,  2.23it/s]
+Train Epoch: 19	Average Loss: 0.751	Average Accuracy: 69.579%
+Val set -> Average loss: 0.8142, Accuracy: 681/1006 (67.694%)
+Train Epoch: 20 [3250/4026 (99%)]	Loss: 0.930	Training Accuracy: 70.114%: 100%|██████| 126/126 [00:54<00:00,  2.31it/s]
+Train Epoch: 20	Average Loss: 0.745	Average Accuracy: 71.255%
+Val set -> Average loss: 0.8299, Accuracy: 672/1006 (66.799%)
+Train Epoch: 21 [3250/4026 (99%)]	Loss: 0.860	Training Accuracy: 69.990%: 100%|██████| 126/126 [00:54<00:00,  2.31it/s]
+Train Epoch: 21	Average Loss: 0.742	Average Accuracy: 70.024%
+Val set -> Average loss: 0.8013, Accuracy: 680/1006 (67.594%)
+Train Epoch: 22 [3250/4026 (99%)]	Loss: 0.598	Training Accuracy: 69.940%: 100%|██████| 126/126 [00:54<00:00,  2.31it/s]
+Train Epoch: 22	Average Loss: 0.754	Average Accuracy: 68.473%
+Val set -> Average loss: 0.8224, Accuracy: 682/1006 (67.793%)
+Train Epoch: 23 [3250/4026 (99%)]	Loss: 0.699	Training Accuracy: 70.982%: 100%|██████| 126/126 [00:54<00:00,  2.31it/s]
+Train Epoch: 23	Average Loss: 0.730	Average Accuracy: 70.257%
+Val set -> Average loss: 0.7788, Accuracy: 673/1006 (66.899%)
+Train Epoch: 24 [3250/4026 (99%)]	Loss: 0.716	Training Accuracy: 70.337%: 100%|██████| 126/126 [00:54<00:00,  2.32it/s]
+Train Epoch: 24	Average Loss: 0.735	Average Accuracy: 69.469%
+Val set -> Average loss: 0.8466, Accuracy: 673/1006 (66.899%)
+Train Epoch: 25 [3250/4026 (99%)]	Loss: 0.781	Training Accuracy: 70.709%: 100%|██████| 126/126 [00:54<00:00,  2.32it/s]
+Train Epoch: 25	Average Loss: 0.743	Average Accuracy: 71.309%
+Val set -> Average loss: 0.8228, Accuracy: 681/1006 (67.694%)
+Train Epoch: 26 [3250/4026 (99%)]	Loss: 0.738	Training Accuracy: 70.908%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 26	Average Loss: 0.732	Average Accuracy: 71.610%
+Val set -> Average loss: 0.8697, Accuracy: 677/1006 (67.296%)
+Train Epoch: 27 [3250/4026 (99%)]	Loss: 0.739	Training Accuracy: 70.040%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 27	Average Loss: 0.736	Average Accuracy: 70.108%
+Val set -> Average loss: 0.7830, Accuracy: 695/1006 (69.085%)
+Train Epoch: 28 [3250/4026 (99%)]	Loss: 0.578	Training Accuracy: 70.064%: 100%|██████| 126/126 [00:57<00:00,  2.18it/s]
+Train Epoch: 28	Average Loss: 0.738	Average Accuracy: 71.418%
+Val set -> Average loss: 0.7901, Accuracy: 679/1006 (67.495%)
+Train Epoch: 29 [3250/4026 (99%)]	Loss: 1.140	Training Accuracy: 71.503%: 100%|██████| 126/126 [00:57<00:00,  2.19it/s]
+Train Epoch: 29	Average Loss: 0.749	Average Accuracy: 71.034%
+Val set -> Average loss: 0.7912, Accuracy: 677/1006 (67.296%)
+Train Epoch: 30 [3250/4026 (99%)]	Loss: 0.911	Training Accuracy: 70.263%: 100%|██████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 30	Average Loss: 0.735	Average Accuracy: 69.564%
+Val set -> Average loss: 0.7684, Accuracy: 690/1006 (68.588%)
+--------------------------------
+K_fold: 4
+Train Epoch: 1 [3250/4026 (99%)]	Loss: 1.328	Training Accuracy: 52.927%: 100%|███████| 126/126 [00:57<00:00,  2.19it/s]
+Train Epoch: 1	Average Loss: 1.439	Average Accuracy: 53.705%
+Val set -> Average loss: 0.9600, Accuracy: 564/1006 (56.064%)
+Train Epoch: 2 [3250/4026 (99%)]	Loss: 1.091	Training Accuracy: 51.612%: 100%|███████| 126/126 [00:57<00:00,  2.19it/s]
+Train Epoch: 2	Average Loss: 1.219	Average Accuracy: 51.416%
+Val set -> Average loss: 1.0800, Accuracy: 574/1006 (57.058%)
+Train Epoch: 3 [3250/4026 (99%)]	Loss: 0.881	Training Accuracy: 55.184%: 100%|███████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 3	Average Loss: 1.084	Average Accuracy: 55.357%
+Val set -> Average loss: 1.2050, Accuracy: 605/1006 (60.139%)
+Train Epoch: 4 [3250/4026 (99%)]	Loss: 0.962	Training Accuracy: 55.779%: 100%|███████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 4	Average Loss: 1.059	Average Accuracy: 58.116%
+Val set -> Average loss: 0.9191, Accuracy: 607/1006 (60.338%)
+Train Epoch: 5 [3250/4026 (99%)]	Loss: 1.313	Training Accuracy: 55.977%: 100%|███████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 5	Average Loss: 1.050	Average Accuracy: 57.288%
+Val set -> Average loss: 1.1085, Accuracy: 564/1006 (56.064%)
+Train Epoch: 6 [3250/4026 (99%)]	Loss: 0.840	Training Accuracy: 56.796%: 100%|███████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 6	Average Loss: 0.997	Average Accuracy: 57.011%
+Val set -> Average loss: 0.9167, Accuracy: 603/1006 (59.940%)
+Train Epoch: 7 [3250/4026 (99%)]	Loss: 0.926	Training Accuracy: 57.440%: 100%|███████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 7	Average Loss: 0.987	Average Accuracy: 57.384%
+Val set -> Average loss: 0.9263, Accuracy: 582/1006 (57.853%)
+Train Epoch: 8 [3250/4026 (99%)]	Loss: 0.792	Training Accuracy: 57.540%: 100%|███████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 8	Average Loss: 1.018	Average Accuracy: 59.044%
+Val set -> Average loss: 0.9317, Accuracy: 598/1006 (59.443%)
+Train Epoch: 9 [3250/4026 (99%)]	Loss: 0.997	Training Accuracy: 58.085%: 100%|███████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 9	Average Loss: 0.982	Average Accuracy: 58.652%
+Val set -> Average loss: 1.0253, Accuracy: 477/1006 (47.416%)
+Train Epoch: 10 [3250/4026 (99%)]	Loss: 0.915	Training Accuracy: 59.648%: 100%|██████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 10	Average Loss: 0.940	Average Accuracy: 58.237%
+Val set -> Average loss: 0.8869, Accuracy: 635/1006 (63.121%)
+Train Epoch: 11 [3250/4026 (99%)]	Loss: 1.074	Training Accuracy: 61.260%: 100%|██████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 11	Average Loss: 0.905	Average Accuracy: 61.263%
+Val set -> Average loss: 0.8933, Accuracy: 640/1006 (63.618%)
+Train Epoch: 12 [3250/4026 (99%)]	Loss: 0.801	Training Accuracy: 61.806%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 12	Average Loss: 0.891	Average Accuracy: 62.510%
+Val set -> Average loss: 0.8628, Accuracy: 642/1006 (63.817%)
+Train Epoch: 13 [3250/4026 (99%)]	Loss: 0.817	Training Accuracy: 62.748%: 100%|██████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 13	Average Loss: 0.878	Average Accuracy: 63.821%
+Val set -> Average loss: 0.8774, Accuracy: 640/1006 (63.618%)
+Train Epoch: 14 [3250/4026 (99%)]	Loss: 0.633	Training Accuracy: 63.170%: 100%|██████| 126/126 [00:56<00:00,  2.24it/s]
+Train Epoch: 14	Average Loss: 0.880	Average Accuracy: 62.857%
+Val set -> Average loss: 0.8961, Accuracy: 658/1006 (65.408%)
+Train Epoch: 15 [3250/4026 (99%)]	Loss: 0.900	Training Accuracy: 64.137%: 100%|██████| 126/126 [00:55<00:00,  2.26it/s]
+Train Epoch: 15	Average Loss: 0.854	Average Accuracy: 64.811%
+Val set -> Average loss: 0.8387, Accuracy: 658/1006 (65.408%)
+Train Epoch: 16 [3250/4026 (99%)]	Loss: 1.170	Training Accuracy: 65.005%: 100%|██████| 126/126 [00:55<00:00,  2.25it/s]
+Train Epoch: 16	Average Loss: 0.850	Average Accuracy: 66.208%
+Val set -> Average loss: 0.8597, Accuracy: 650/1006 (64.612%)
+Train Epoch: 17 [3250/4026 (99%)]	Loss: 0.972	Training Accuracy: 65.575%: 100%|██████| 126/126 [00:55<00:00,  2.28it/s]
+Train Epoch: 17	Average Loss: 0.838	Average Accuracy: 65.756%
+Val set -> Average loss: 0.8203, Accuracy: 660/1006 (65.606%)
+Train Epoch: 18 [3250/4026 (99%)]	Loss: 0.646	Training Accuracy: 65.551%: 100%|██████| 126/126 [00:55<00:00,  2.26it/s]
+Train Epoch: 18	Average Loss: 0.826	Average Accuracy: 65.541%
+Val set -> Average loss: 0.8360, Accuracy: 656/1006 (65.209%)
+Train Epoch: 19 [3250/4026 (99%)]	Loss: 0.766	Training Accuracy: 66.468%: 100%|██████| 126/126 [00:55<00:00,  2.26it/s]
+Train Epoch: 19	Average Loss: 0.811	Average Accuracy: 66.015%
+Val set -> Average loss: 0.8588, Accuracy: 643/1006 (63.917%)
+Train Epoch: 20 [3250/4026 (99%)]	Loss: 0.834	Training Accuracy: 66.146%: 100%|██████| 126/126 [01:00<00:00,  2.07it/s]
+Train Epoch: 20	Average Loss: 0.822	Average Accuracy: 65.362%
+Val set -> Average loss: 0.8388, Accuracy: 667/1006 (66.302%)
+Train Epoch: 21 [3250/4026 (99%)]	Loss: 0.702	Training Accuracy: 67.609%: 100%|██████| 126/126 [00:58<00:00,  2.15it/s]
+Train Epoch: 21	Average Loss: 0.780	Average Accuracy: 66.914%
+Val set -> Average loss: 0.8196, Accuracy: 662/1006 (65.805%)
+Train Epoch: 22 [3250/4026 (99%)]	Loss: 0.712	Training Accuracy: 68.130%: 100%|██████| 126/126 [00:57<00:00,  2.20it/s]
+Train Epoch: 22	Average Loss: 0.776	Average Accuracy: 69.074%
+Val set -> Average loss: 0.8166, Accuracy: 661/1006 (65.706%)
+Train Epoch: 23 [3250/4026 (99%)]	Loss: 1.198	Training Accuracy: 68.651%: 100%|██████| 126/126 [00:58<00:00,  2.17it/s]
+Train Epoch: 23	Average Loss: 0.785	Average Accuracy: 67.992%
+Val set -> Average loss: 0.8297, Accuracy: 665/1006 (66.103%)
+Train Epoch: 24 [3250/4026 (99%)]	Loss: 0.793	Training Accuracy: 68.775%: 100%|██████| 126/126 [00:56<00:00,  2.25it/s]
+Train Epoch: 24	Average Loss: 0.768	Average Accuracy: 67.941%
+Val set -> Average loss: 0.7993, Accuracy: 673/1006 (66.899%)
+Train Epoch: 25 [3250/4026 (99%)]	Loss: 1.048	Training Accuracy: 68.700%: 100%|██████| 126/126 [00:57<00:00,  2.21it/s]
+Train Epoch: 25	Average Loss: 0.775	Average Accuracy: 69.955%
+Val set -> Average loss: 0.8308, Accuracy: 670/1006 (66.600%)
+Train Epoch: 26 [3250/4026 (99%)]	Loss: 0.946	Training Accuracy: 69.196%: 100%|██████| 126/126 [00:58<00:00,  2.14it/s]
+Train Epoch: 26	Average Loss: 0.767	Average Accuracy: 71.035%
+Val set -> Average loss: 0.8436, Accuracy: 658/1006 (65.408%)
+Train Epoch: 27 [3250/4026 (99%)]	Loss: 0.686	Training Accuracy: 69.246%: 100%|██████| 126/126 [00:58<00:00,  2.15it/s]
+Train Epoch: 27	Average Loss: 0.760	Average Accuracy: 70.100%
+Val set -> Average loss: 0.8355, Accuracy: 678/1006 (67.396%)
+Train Epoch: 28 [3250/4026 (99%)]	Loss: 0.781	Training Accuracy: 69.072%: 100%|██████| 126/126 [00:58<00:00,  2.15it/s]
+Train Epoch: 28	Average Loss: 0.754	Average Accuracy: 69.026%
+Val set -> Average loss: 0.8305, Accuracy: 670/1006 (66.600%)
+Train Epoch: 29 [3250/4026 (99%)]	Loss: 0.611	Training Accuracy: 69.023%: 100%|██████| 126/126 [00:58<00:00,  2.16it/s]
+Train Epoch: 29	Average Loss: 0.770	Average Accuracy: 67.922%
+Val set -> Average loss: 0.8308, Accuracy: 671/1006 (66.700%)
+Train Epoch: 30 [3250/4026 (99%)]	Loss: 0.710	Training Accuracy: 69.643%: 100%|██████| 126/126 [00:58<00:00,  2.16it/s]
+Train Epoch: 30	Average Loss: 0.759	Average Accuracy: 69.439%
+Val set -> Average loss: 0.8128, Accuracy: 673/1006 (66.899%)
+
+--------------------------------
+5次 K-fold 交叉驗證結果:
+K_fold 0 -> 68.222 %
+K_fold 1 -> 68.421 %
+K_fold 2 -> 68.191 %
+K_fold 3 -> 69.085 %
+K_fold 4 -> 67.396 %
+K_fold Average Accuracy: 68.263 %
+--------------------------------
+
+train finished.

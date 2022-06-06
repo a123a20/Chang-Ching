@@ -1,0 +1,67 @@
+--------------------------------
+K_fold: 0
+Train Epoch: 1 [2259/4025 (100%)]	Loss: 1.125	Training Accuracy: 54.663%: 100%|██████| 252/252 [00:36<00:00,  6.94it/s]
+Train Epoch: 1	Average Loss: 1.024	Average Accuracy: 54.756%
+Val set -> Average loss: 1.0251, Accuracy: 526/1007 (52.234%)
+Train Epoch: 2 [2259/4025 (100%)]	Loss: 0.912	Training Accuracy: 54.663%: 100%|██████| 252/252 [00:36<00:00,  6.91it/s]
+Train Epoch: 2	Average Loss: 1.004	Average Accuracy: 55.626%
+Val set -> Average loss: 1.0206, Accuracy: 526/1007 (52.234%)
+Train Epoch: 3 [2259/4025 (100%)]	Loss: 0.838	Training Accuracy: 54.663%: 100%|██████| 252/252 [00:36<00:00,  6.82it/s]
+Train Epoch: 3	Average Loss: 0.999	Average Accuracy: 53.179%
+Val set -> Average loss: 1.0200, Accuracy: 526/1007 (52.234%)
+--------------------------------
+K_fold: 1
+Train Epoch: 1 [2259/4025 (100%)]	Loss: 1.099	Training Accuracy: 18.998%: 100%|██████| 252/252 [00:38<00:00,  6.58it/s]
+Train Epoch: 1	Average Loss: 1.104	Average Accuracy: 18.451%
+Val set -> Average loss: 1.0986, Accuracy: 184/1007 (18.272%)
+Train Epoch: 2 [2259/4025 (100%)]	Loss: 1.099	Training Accuracy: 18.998%: 100%|██████| 252/252 [00:37<00:00,  6.80it/s]
+Train Epoch: 2	Average Loss: 1.099	Average Accuracy: 18.535%
+Val set -> Average loss: 1.0986, Accuracy: 184/1007 (18.272%)
+Train Epoch: 3 [2259/4025 (100%)]	Loss: 1.099	Training Accuracy: 18.998%: 100%|██████| 252/252 [00:36<00:00,  6.89it/s]
+Train Epoch: 3	Average Loss: 1.099	Average Accuracy: 20.264%
+Val set -> Average loss: 1.0986, Accuracy: 184/1007 (18.272%)
+--------------------------------
+K_fold: 2
+Train Epoch: 1 [2510/4026 (100%)]	Loss: 1.099	Training Accuracy: 24.504%: 100%|██████| 252/252 [00:36<00:00,  6.88it/s]
+Train Epoch: 1	Average Loss: 1.104	Average Accuracy: 26.675%
+Val set -> Average loss: 1.0986, Accuracy: 179/1006 (17.793%)
+Train Epoch: 2 [2510/4026 (100%)]	Loss: 1.099	Training Accuracy: 19.221%: 100%|██████| 252/252 [00:36<00:00,  6.83it/s]
+Train Epoch: 2	Average Loss: 1.099	Average Accuracy: 19.854%
+Val set -> Average loss: 1.0986, Accuracy: 179/1006 (17.793%)
+Train Epoch: 3 [2510/4026 (100%)]	Loss: 1.099	Training Accuracy: 19.122%: 100%|██████| 252/252 [00:37<00:00,  6.73it/s]
+Train Epoch: 3	Average Loss: 1.099	Average Accuracy: 20.361%
+Val set -> Average loss: 1.0986, Accuracy: 179/1006 (17.793%)
+--------------------------------
+K_fold: 3
+Train Epoch: 1 [2510/4026 (100%)]	Loss: 0.988	Training Accuracy: 54.415%: 100%|██████| 252/252 [00:38<00:00,  6.61it/s]
+Train Epoch: 1	Average Loss: 1.039	Average Accuracy: 54.466%
+Val set -> Average loss: 1.0241, Accuracy: 536/1006 (53.280%)
+Train Epoch: 2 [2510/4026 (100%)]	Loss: 0.968	Training Accuracy: 54.415%: 100%|██████| 252/252 [00:36<00:00,  6.93it/s]
+Train Epoch: 2	Average Loss: 1.011	Average Accuracy: 54.824%
+Val set -> Average loss: 1.0159, Accuracy: 536/1006 (53.280%)
+Train Epoch: 3 [2510/4026 (100%)]	Loss: 0.881	Training Accuracy: 54.415%: 100%|██████| 252/252 [00:36<00:00,  6.83it/s]
+Train Epoch: 3	Average Loss: 1.006	Average Accuracy: 53.580%
+Val set -> Average loss: 1.0148, Accuracy: 536/1006 (53.280%)
+--------------------------------
+K_fold: 4
+Train Epoch: 1 [2510/4026 (100%)]	Loss: 1.097	Training Accuracy: 53.646%: 100%|██████| 252/252 [00:39<00:00,  6.46it/s]
+Train Epoch: 1	Average Loss: 1.039	Average Accuracy: 54.216%
+Val set -> Average loss: 1.0076, Accuracy: 567/1006 (56.362%)
+Train Epoch: 2 [2510/4026 (100%)]	Loss: 0.969	Training Accuracy: 53.646%: 100%|██████| 252/252 [00:37<00:00,  6.79it/s]
+Train Epoch: 2	Average Loss: 1.017	Average Accuracy: 54.051%
+Val set -> Average loss: 0.9949, Accuracy: 567/1006 (56.362%)
+Train Epoch: 3 [2510/4026 (100%)]	Loss: 1.118	Training Accuracy: 53.646%: 100%|██████| 252/252 [00:36<00:00,  6.89it/s]
+Train Epoch: 3	Average Loss: 1.013	Average Accuracy: 53.788%
+Val set -> Average loss: 0.9911, Accuracy: 567/1006 (56.362%)
+
+--------------------------------
+4次 K-fold 交叉驗證結果:
+K_fold 0 -> 52.234 %
+K_fold 1 -> 18.272 %
+K_fold 2 -> 17.793 %
+K_fold 3 -> 53.280 %
+K_fold 4 -> 56.362 %
+K_fold Average Accuracy: 39.588 %
+--------------------------------
+
+train finished.
