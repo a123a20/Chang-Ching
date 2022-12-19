@@ -1,0 +1,22 @@
+Anaconda開啟pyqt5介面:
+找到designer.exe
+路徑參考: C:\Users\{使用者}\anaconda3\envs\{環境名稱}\Library\bin
+
+
+ui轉檔py:
+  創建Anaconda Prompt終端機捷徑，開始位置設工作資料夾，啟動環境
+  pyuic5 -x HW1.ui -o HW1.py
+  pyuic5 ui_mainwindow.ui -o ui_mainwindow.py (無 main__init__初始化)
+
+
+同時開2個Spyder:
+  spyder --new instance
+
+
+選擇Anaconda環境:
+  activate "環境名稱"
+
+
+.py打包成.exe執行檔:
+  安裝: pip install pyinstaller
+  執行: pyinstaller -F --distpath release main.py (release為exe的資料夾)
