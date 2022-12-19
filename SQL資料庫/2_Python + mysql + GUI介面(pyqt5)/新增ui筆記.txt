@@ -1,0 +1,2 @@
+顯示圖片:
+  label->屬性->QFrame->frameShape->Box(顯示邊框)

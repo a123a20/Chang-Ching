@@ -1,0 +1,36 @@
+# 開始指令
+# SHOW databases/tables;
+# CREATE database {databases_name};
+# DROP database/table {databases_name/table_name};
+# USE {databases_name};
+
+# 創造資料
+# CREATE TABLE {table_name}(
+#	a int primary key auto_increment,
+#	b varchar(123)
+# );
+
+# 顯示資料
+# SELECT {a,b} 
+# FROM {table_name} 
+# WHERE {條件};  
+
+# 新增資料
+# INSERT INTO {table_name}(a,b) VALUES (a_data, b_data);  
+
+# 更新資料
+# UPDATE {table_name}  
+# SET a={new_value}, b={new_value}
+# WHERE {篩選條件};
+
+# 刪除資料
+# DELETE FROM {table_name}
+# WHERE {篩選條件};
+
+
+# Foreign key (外鍵)
+ALTER TABLE {table_name1} ADD FOREIGN KEY({key in table_name1})
+REFERENCES {table_name2}({key in table_name2})
+
+1.防止資料缺漏，保持一致性(delete時，primary key可能關聯到其他table，不能被刪除)
+2.也可在創建資料表時，同時建立foreign key
